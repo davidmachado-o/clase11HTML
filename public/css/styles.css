@@ -8,6 +8,11 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+footer{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
 h3{
     font-size: 24px;
 }
@@ -28,6 +33,16 @@ h3{
     font-size: 12px;
 }
 
+.cuerpo-texto-2{
+    font-size: 12px;
+    text-align: center;
+}
+
+.cuerpo-texto-3{
+    font-size: 12px;
+    margin-left: 20px;
+}
+
 ul{
     list-style: none;
     padding-inline-start: 0px;
@@ -40,5 +55,9 @@ a{
 
 .burger-menu{
     float: center;
+    text-align: center;
+}
+
+.div-footer{
     text-align: center;
 }
